@@ -10,7 +10,7 @@
   <artifactId>nuxeo-platform-audit-web-access</artifactId>
   <name>Nuxeo Audit Service - Web Access Logs</name>
   <description>Uses Audit service to trac access to documents via Web interface.</description>
-  <version>5.4.2-HF01</version>
+  <version>5.4.2.1-SNAPSHOT</version>
 
   <dependencies>
     <dependency>
