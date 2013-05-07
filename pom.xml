@@ -13,7 +13,7 @@
   <packaging>pom</packaging>
   <name>Nuxeo Audit Service Parent</name>
   <description>Uses Audit service to track access to documents via Web interface.</description>
-  <version>5.6.0-HF15-SNAPSHOT</version>
+  <version>5.6.0-HF16</version>
 
   <repositories>
     <repository>
